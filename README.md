@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Anirban Sarkar 👋</h1>
 
 <p align="center">
-Final-year CSE undergrad @ NIT Agartala &nbsp;•&nbsp; CGPA 9.1 &nbsp;•&nbsp; Data Engineer Intern<br/>
+CSE undergraduate @ NIT Agartala &nbsp;•&nbsp; CGPA 9.1 &nbsp;•&nbsp; Data Engineer Intern<br/>
 Currently deep in Spark, Airflow, Databricks &amp; LangGraph — still sneaking in the occasional MERN side project
 </p>
 
